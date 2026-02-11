@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+TIPO | Base de datos NoSQL documental
+Base de datos NoSQL documental, porque permite estructuras flexibles y metadatos variables sin esquema fijo. Este tipo de BD permite almacenar información flexible sin un esquema rígido, facilitando el manejo de versiones y campos dinámicos.
