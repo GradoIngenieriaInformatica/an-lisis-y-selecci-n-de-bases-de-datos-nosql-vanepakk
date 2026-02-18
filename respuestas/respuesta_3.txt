@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+SERIES | Base de datos de series temporales
+Base de datos de series temporales, porque está optimizada para grandes volúmenes de datos indexados por fecha y hora. Este tipo de BD está optimizada para consultas por rango temporal, agregaciones y almacenamiento eficiente de grandes volúmenes de datos cronológicos.
