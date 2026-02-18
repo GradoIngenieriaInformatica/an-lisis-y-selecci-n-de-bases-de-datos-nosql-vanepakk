@@ -1,2 +1,2 @@
-TIPO | Base de datos de grafos
+GRAFOS | Base de datos de grafos
 Base de datos de grafos, porque el problema se basa en nodos y relaciones y requiere cálculo eficiente de rutas. Este tipo de BD permite modelar y consultar eficientemente conexiones, caminos alternativos y rutas óptimas, evitando joins complejos propios del modelo relacional.
